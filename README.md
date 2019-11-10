@@ -22,3 +22,6 @@ Backgrounds by Uncle Mugen, made available in public domain under CC0
 
 Character sprites by [Studio Senpai](https://studiosenpaigames.wixsite.com/studiosenpaigames), made available under license CC BY-NC 3.0
 
+## External Links
+Distributions of the demo for Mac and Windows are available at: [Google Drive](https://drive.google.com/open?id=1L9z9K4uG5f1p2aC78p-NOf77vLd2NpN0)
+
