@@ -1,5 +1,8 @@
 # Capstone Demo
----
+
+Bipolar disorder, also known as manic-depressive illness, is a severe mental health condition characterized by recurrent episodes of mania or hypomania interspersed with episodes of depression (Anderson, Haddad, & Scott, 2012). It is among the top five most common mental illnesses in the US, affecting an estimated seven million people (2.8% of the adult population) (Kessler et al., 2004). Despite its pervasiveness, however, bipolar is usually misdiagnosed or only diagnosed after years of symptoms (Emilien, Septien, Brisard, Corruble, & Bourin, 2007). More importantly, various studies have found that there is low public awareness of the disorder, with incorrect beliefs that often indicate the stigma of bipolar (Durand-Zaleski, Scott, Rouillon, & Leboyer, 2012; Ruiz et al., 2012; Furnham & Anthony, 2009; Ellison, Mason, & Scior, 2013). To address this gap in public understanding of bipolar disorder, this Capstone project proposes and develops a realistic simulation of the disorder in the form of a visual novel that would help people recognize the wide spectrum of possible symptoms and know how to support someone with bipolar. The term visual novel here refers to an interactive game genre, featuring text-based story aided by static or sprite-based visuals. In this project, bipolar disorder is simulated using a Markov model, where the states are the mental states of the character (normal, manic, hypomanic, depressive, etc.) and the observable states are the variety of decisions available to the player.
+
+
 ## Directory Guide
 
 **Files and folders of interest:**
